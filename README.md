@@ -1,1 +1,1 @@
-# git_test
+This is a test repository created with the purpose of testing out various git functionalities.
